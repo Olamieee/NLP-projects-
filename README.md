@@ -1,1 +1,2 @@
-# Language and packages used : python 3, regex101 and re library 
+Welcome on board!... 
+This contains My NLP series work from learning.
