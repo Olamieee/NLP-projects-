@@ -1,2 +1,2 @@
 Welcome on board!... 
-This contains My NLP series work from learning.
+This contains My NLP series practices learnt and projects 
